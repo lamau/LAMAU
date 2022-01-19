@@ -1,4 +1,4 @@
-<img src="https://github.com/LAMAU/LAMAU/blob/main/tadarida.png?raw=true" min-width="200px" max-width="200px" width="200px" align="right" alt="LAMAU Logo">
+<img src="https://github.com/LAMAU/LAMAU/blob/main/Tadarida.png?raw=true" min-width="200px" max-width="200px" width="200px" align="right" alt="LAMAU Logo">
 
 <p align="left"> 
  O Laboratório de Mobilidade Automobilística e Urbana (LAMAU) é o projeto de extensão pertencente à Faculdade de Engenharia Elétrica (FEELT) da Universidade Federal de Uberlândia (UFU).
